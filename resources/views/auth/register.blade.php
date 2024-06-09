@@ -9,7 +9,7 @@
         <x-forms.input label="Password" name="password" type="password"/>
         <x-forms.input label="Password Confirmation" name="password_confirmation" type="password"/>
 
-        <x-forms.deviders />
+        <x-forms.divider />
 
         <x-forms.input label="Employer Name" name="employer"/>
 
