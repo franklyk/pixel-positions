@@ -1,7 +1,7 @@
 @props(['job'])
 
 <x-panel class="flex flex-col text-center">
-    <div class="self-start text-sm text-xl">{{ $job->employer->name }}</div>
+    <div class="self-start text-sm md:text-xl">{{ $job->employer->name }}</div>
 
     <div class="py-8">
 
